@@ -1,0 +1,139 @@
+
+#style1{
+    justify-content: space-between;
+    display: flex;
+    margin: 0px;
+    padding: 0px;
+    background-color:  #C55394;
+    text
+}
+
+
+a{
+    text-decoration: none;
+    color: white;
+    margin-right: 10px;
+    
+}
+#style2:hover{
+    background-color:  #EB43A3;
+    padding-top: 20px;
+    padding-bottom: 20px;}
+h1{
+    font-family: 'Courgette', cursive;
+    text-align:center ;
+}
+#style3 div{
+    display: inline-block;
+}
+#style4{
+    background-color: #EB43A3;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+ body{
+     background-image:url("img.png") ;
+     
+    
+ }   
+h1{
+    font-family: 'Courgette', cursive;
+    color: #C55394;
+    background-image: url("photo.png");
+     width: 300px;
+    padding: 80px 180px  ;
+    margin: auto;
+    
+}
+
+#style5 {
+    color: #C55394;
+    font-family: "Courgette", cursive;
+    display: flex;
+}
+.A4{
+    background-color: white;
+    width: 60%;
+    margin: auto;
+    display: block;
+    border-radius: 10px;
+    box-shadow: 0px 0px 8px 10px  rgba(8, 0, 0, 0.048);
+   
+}
+.filaharana{
+    display: flex;
+    color: #C55394;
+    align-items: center;
+    padding: 20px;
+}
+.licornes 
+{
+
+display:inline-flex;
+margin: 0px ;
+padding: 0px;
+overflow: hidden;
+}
+img{
+    display: block;
+    width: 100%;
+    
+    
+
+}
+figure
+{
+
+    
+    margin: 0 5px;
+     position: relative;
+     display: block;
+      overflow: hidden;
+}
+figcaption{
+    position: absolute;
+    text-align: center;
+    background:rgba(0, 0, 0, 0.616);
+    color: white;
+    bottom: 0;
+    padding: 20px  0;
+   
+    align-items: center;
+    width: 100%;
+    font-size: 15px;
+    text-align: center;
+    
+
+    
+
+}
+img:hover{
+    transform:scale(1.1);
+}
+h2{
+    font-family: 'Courgette', cursive;
+    color: #EB43A3;
+}
+.cote{
+
+    display: flex;
+    margin: 0 5px;
+}
+.sources{
+    padding: 0 0;
+    margin: 0 0px;
+}
+footer{
+    text-align: right;
+    background-color: #EB43A3;
+    margin: 0;
+    padding: 5px;
+}
+.valider{
+    background-color: #EB43A3;
+    width: 80px;color:white ;
+    border-radius: 5px;
+}
+p{
+    margin: 10px;
+}
